@@ -1,6 +1,9 @@
 # Dot-creator
 png or jpg image convert to Dot like image
 
+# Sample
+![compdsa](https://github.com/BB-KING777/Dot-creator/assets/129095495/736a7648-6f98-4a7e-b12e-7feac844f158)
+
 # DO NOT use png with transparent background. The background should be a single color not used in the image you wish to convert to dots.
 # DO NOT use too Big image. Plaese resize image.
 
@@ -29,6 +32,5 @@ You can reset from `reset Image`
 7. 「Create Dot Art」をクリック
 8. よければ保存します。うまくいかない場合もしくは、いやだった場合は、もう一度試してください。
 
-# Sample
-![compdsa](https://github.com/BB-KING777/Dot-creator/assets/129095495/736a7648-6f98-4a7e-b12e-7feac844f158)
+
 
